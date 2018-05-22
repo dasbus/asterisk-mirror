@@ -16,8 +16,6 @@
 *.so
 *.exports
 *.moduleinfo
-*.makeopts
-*.makedeps
 .lastclean
 /.pc
 aclocal.m4
